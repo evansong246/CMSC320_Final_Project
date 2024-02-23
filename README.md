@@ -1,5 +1,4 @@
 # CMSC320_Final_Project
-Final Project Checkpoint 1
 CMSC320
 
 Group members:
